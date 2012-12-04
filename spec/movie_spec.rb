@@ -11,7 +11,4 @@ describe Movie do
 		movie.score.should eq(50)
 	end
 
-	it "should tell me the critic score" do
-
-	end
 end
